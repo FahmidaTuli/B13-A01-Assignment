@@ -246,6 +246,40 @@ main #banner-container .banner-content h1{
     list-style-type: none;
 }
 
+#challenge {
+    margin: 2px 120px 120px;
+    background-color: #F7F6F2;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 80px;
+    height: 384px;
+}
+#challenge .challenge-section h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #001931;
+    text-align: center;
+    margin-bottom: 16px;
+}
+#challenge .challenge-section p {
+    font-size: 16px;
+    line-height: 24px;
+    color: #627382;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+#challenge .challenge-section button {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 16px;
+}
+
+
+
 
 
 
