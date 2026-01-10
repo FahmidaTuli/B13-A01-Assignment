@@ -75,6 +75,8 @@ nav .menu a{
     color: #000000;
     text-decoration: none;
 }
+
+
 /*banner section*/
 
 main #banner-container {
@@ -194,6 +196,7 @@ main #banner-container .banner-content h1{
     text-align: center;
 }
 
+
 #brain {
     border: none;
     margin: 0 auto;
@@ -244,6 +247,7 @@ main #banner-container .banner-content h1{
     list-style-type: none;
 }
 
+
 #challenge {
     margin: 2px 120px 120px;
     background-color: #F7F6F2;
@@ -275,6 +279,7 @@ main #banner-container .banner-content h1{
     margin: 0 auto;
     margin-bottom: 16px;
 }
+
 
 footer {
     background-color: #001931;
